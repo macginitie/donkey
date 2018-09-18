@@ -5,7 +5,7 @@
 [![PyPI version](https://badge.fury.io/py/donkeycar.svg)](https://badge.fury.io/py/donkeycar)
 [![Py versions](https://img.shields.io/pypi/pyversions/donkeycar.svg)](https://img.shields.io/pypi/pyversions/donkeycar.svg)
 
-Donkeycar is minimalist and modular self driving library for Python. It is
+Donkeycar is a minimalist and modular self-driving library for Python. It is
 developed for hobbyists and students with a focus on allowing fast experimentation and easy
 community contributions.
 
@@ -17,18 +17,18 @@ community contributions.
 ![donkeycar](./docs/assets/build_hardware/donkey2.PNG)
 
 #### Use Donkey if you want to:
-* Make an RC car drive its self.
-* Compete in self driving races like [DIY Robocars](http://diyrobocars.com)
+* Make an RC car drive itself.
+* Compete in self-driving races like [DIY Robocars](http://diyrobocars.com)
 * Experiment with autopilots, mapping computer vision and neural networks.
-* Log sensor data. (images, user inputs, sensor readings)
+* Log sensor data (images, user inputs, sensor readings).
 * Drive your car via a web or game controller.
-* Leverage community contributed driving data.
+* Leverage community-contributed driving data.
 * Use existing CAD models for design upgrades.
 
 ### Get driving.
-After building a Donkey2 you can turn on your car and go to http://localhost:8887 to drive.
+After building a Donkey2 you can turn on your car and "go to" http://localhost:8887 to drive.
 
-### Modify your cars behavior.
+### Modify your car's behavior.
 The donkey car is controlled by running a sequence of events
 
 ```python
