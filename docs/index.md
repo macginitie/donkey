@@ -9,7 +9,7 @@ developed with a focus on enabling fast experimentation and easy contribution.
 
 Donkey2 is the standard car that most people build first. The parts cost about $250 to $300
 
-and take 2 hours to assemble. Here are the main steps to build your own car:
+and take around 2 hours to assemble. Here are the main steps to build your own car:
 
 1. [Assemble hardware.](guide/build_hardware.md)
 2. [Install software.](guide/install_software.md)
@@ -62,7 +62,7 @@ pip install -e donkeycar
 
 ### Why the name Donkey?
 
-The ultimate goal of this project is to build something useful. Donkey's were
+The ultimate goal of this project is to build something useful. Donkeys were
 one of the first domesticated pack animals, they're notoriously stubborn, and
 they are kid safe. Until the car can navigate from one side of a city to the
 other, we'll hold off naming it after some celestial being.
